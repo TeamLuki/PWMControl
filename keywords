@@ -1,0 +1,7 @@
+PWMControl  KEYWORD1
+on          KEYWORD2
+off         KEYWORD2
+pwmUp       KEYWORD2
+pwmDown     KEYWORD2
+pwmMax      KEYWORD2
+pwmMin      KEYWORD2
